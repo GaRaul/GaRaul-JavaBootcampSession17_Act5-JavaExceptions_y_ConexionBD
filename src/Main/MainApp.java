@@ -1,6 +1,6 @@
 /**
  * 
- * AUTORES: Edgar y Raul 
+ * AUTORES: Edgar, Abel y Raúl 
  *
  * */
 
